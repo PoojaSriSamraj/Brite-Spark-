@@ -1,0 +1,110 @@
+Problem 7 The Reminder That Reaches
+
+Brite Spark 2026 · Systems / Edge Cases
+
+Systems / Edge Cases
+
+Build an appointment reminder system that actually reaches people across channels, in the right language, without ever becoming harassment.
+
+
+
+Why this problem exists
+
+A missed appointment is expensive twice. The slot is wasted, and the resident who missed it is usually the one who most needed it the person whose phone was cut off, who moved, who does not read English comfortably, who has three other things happening that morning.
+
+Reminder systems are the classic example of a problem that looks finished after ten minutes and is not. Sending a text message is trivial. Sending the right message, once, to the right person, on a channel they can actually receive, in a language they read, at an hour that is not the middle of the night, and knowing when to stop that is a system with a dozen edge cases in it, and every one of the edge cases corresponds to a real person who either gets reached or does not.
+
+It is also the problem in this set where careful thinking beats volume of code most decisively. The naive version works almost immediately. The correct version requires noticing things.
+
+
+
+The scenario
+
+A service program loses roughly thirty per cent of its appointment slots to no-shows. Reminders exist. They are plainly not working.
+
+Nobody has looked closely at why. The contact list has been accumulating for years and reflects that: it was built by different people, at different times, with different standards for what counted as a valid contact detail, and nothing has ever been cleaned out of it.
+
+
+
+What you are being asked to build
+
+A reminder system that reaches people.
+
+You are also being asked to define what “reaches people” means and to be able to measure it, which is harder than it sounds. Messages sent is not a measure of anything. Part of the deliverable is a definition of success you can defend.
+
+Command-line delivery is fine. Interface quality is not assessed on this problem.
+
+
+
+What we give you
+
+An appointment schedule.
+
+A contact list with the properties a real one has: incomplete records, a mix of line types that do not all accept the same kinds of message, contact points that serve more than one person, a range of language preferences, recorded opt-outs, and details that have gone stale in ways the list itself does not flag.
+
+Mock SMS, voice, and email channels, each with realistic delivery behaviour including failures, and failures that do not announce themselves as failures.
+
+Read the contact list carefully before you design anything. Several of the requirements below only make sense once you have understood who is actually in it.
+
+
+
+The floor
+
+These must all be true. Nothing above the floor counts until every box below is ticked.
+
+☐ Channel fallback with a stopping rule. If one channel fails, try another but the sequence must terminate, and you must be able to say why it terminates where it does. A fallback loop without a stopping rule is not a reminder system, it is harassment with retry logic.
+
+☐ Quiet hours and opt-outs enforced in a way that cannot be bypassed. Not checked politely at the call site enforced somewhere that a future code path cannot route around. An opt-out that a new feature can accidentally ignore was never an opt-out.
+
+☐ Correct language selection per resident.
+
+☐ No duplicate messages when one contact point serves two residents. Two people, one phone, two appointments work out what the right behaviour is and defend it.
+
+☐ A measurable definition of success, stated explicitly, with your system reporting against it.
+
+☐ Runs from a clean clone using the README alone.
+
+
+
+Not required
+
+A user interface, a dashboard, or a scheduling front end.
+
+Real integration with any messaging provider. Use the mocks.
+
+Natural language generation for the message content. Templates are fine.
+
+Handling appointment booking, rescheduling, or cancellation.
+
+Scale. This is a small program, not a national one.
+
+
+
+If you have time
+
+Only once the floor is fully met.
+
+Make the stopping rule adaptive to what you know about the resident and the channel, rather than a fixed count and be able to justify it.
+
+Detect the contact details that are no longer good from delivery behaviour, and do something sensible with that knowledge rather than retrying forever.
+
+Model the cost of the two errors failing to reach someone who needed reaching, versus over-contacting someone who did not and let that drive your design rather than leaving it implicit.
+
+
+
+Remember: the change on day two
+
+At some point on day two the requirements for this problem will change, and you will not be told in advance what the change is. Every problem in the set gets one.
+
+Build with that in mind. For this problem, the useful question to ask yourself is: if a new rule about who may be contacted, how, or how often arrived tomorrow, where in my system would it go and is there exactly one such place?
+
+
+
+Submitting
+
+Your repository must contain a running demo, real commit history, DECISIONS.md, and AI-USAGE.md. 
+
+For this problem specifically, your DECISIONS.md should list the edge cases you found in the contact list and what you decided to do about each one, including any you found and consciously chose not to handle. That list is the clearest evidence of how carefully you read the problem, and an honest “I saw this and ran out of time” is worth considerably more than silence.
+
+Full rules, the complete rubric, and the AI usage policy are in the Participant Handbook.
+

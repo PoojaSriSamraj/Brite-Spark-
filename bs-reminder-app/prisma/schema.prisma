@@ -1,0 +1,47 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+// Default to SQLite for local demo. To use Postgres, edit this file and set
+// `provider = "postgresql"` and set a proper `DATABASE_URL` environment variable.
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Resident {
+  id            String        @id
+  name          String?
+  language      String?
+  optOut        Boolean       @default(false)
+  contactPoints ContactPoint[]
+  appointments  Appointment[] @relation("residentAppointments")
+}
+
+model ContactPoint {
+  id         String   @id @default(cuid())
+  type       String
+  value      String
+  optOut     Boolean  @default(false)
+  residentId String
+  resident   Resident @relation(fields: [residentId], references: [id])
+}
+
+model Appointment {
+  id         String   @id
+  residentId String?
+  resident   Resident? @relation(fields: [residentId], references: [id], name: "residentAppointments")
+  time       DateTime?
+  location   String?
+  status     String?
+}
+
+model ContactAttempt {
+  id            String   @id @default(cuid())
+  residentId    String
+  appointmentId String?
+  timestamp     DateTime @default(now())
+  channel       String?
+  result        String
+  counted       Boolean  @default(true)
+}

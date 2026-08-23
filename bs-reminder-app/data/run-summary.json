@@ -1,0 +1,5544 @@
+{
+  "totalAppointments": 940,
+  "reached": 0,
+  "reachRate": 0,
+  "results": [
+    {
+      "appointment": "AP-70238",
+      "resident": "RS-4396",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70514",
+      "resident": "RS-4585",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70065",
+      "resident": "RS-4530",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70477",
+      "resident": "RS-4263",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70033",
+      "resident": "RS-4291",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70054",
+      "resident": "RS-4121",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70153",
+      "resident": "RS-4092",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70484",
+      "resident": "RS-4594",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70026",
+      "resident": "RS-4573",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70679",
+      "resident": "RS-4099",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70139",
+      "resident": "RS-4534",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70183",
+      "resident": "RS-4573",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70102",
+      "resident": "RS-4189",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70381",
+      "resident": "RS-4123",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70010",
+      "resident": "RS-4134",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70340",
+      "resident": "RS-4354",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70717",
+      "resident": "RS-4487",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70503",
+      "resident": "RS-4369",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70574",
+      "resident": "RS-4610",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70899",
+      "resident": "RS-4477",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70095",
+      "resident": "RS-4393",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70470",
+      "resident": "RS-4183",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70596",
+      "resident": "RS-4347",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70471",
+      "resident": "RS-4597",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70498",
+      "resident": "RS-4589",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70389",
+      "resident": "RS-4385",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70702",
+      "resident": "RS-4495",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70123",
+      "resident": "RS-4383",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70763",
+      "resident": "RS-4367",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70630",
+      "resident": "RS-4093",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70784",
+      "resident": "RS-4238",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70799",
+      "resident": "RS-4194",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70211",
+      "resident": "RS-4384",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70816",
+      "resident": "RS-4497",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70572",
+      "resident": "RS-4449",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70171",
+      "resident": "RS-4231",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70385",
+      "resident": "RS-4231",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70322",
+      "resident": "RS-4039",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70100",
+      "resident": "RS-4163",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70224",
+      "resident": "RS-4581",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70267",
+      "resident": "RS-4528",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70635",
+      "resident": "RS-4001",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70754",
+      "resident": "RS-4460",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70163",
+      "resident": "RS-4269",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70295",
+      "resident": "RS-4141",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70316",
+      "resident": "RS-4474",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70638",
+      "resident": "RS-4126",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70746",
+      "resident": "RS-4086",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70138",
+      "resident": "RS-4000",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70464",
+      "resident": "RS-4437",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70684",
+      "resident": "RS-4095",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70835",
+      "resident": "RS-4070",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70085",
+      "resident": "RS-4248",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70286",
+      "resident": "RS-4391",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70718",
+      "resident": "RS-4009",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70052",
+      "resident": "RS-4290",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70144",
+      "resident": "RS-4576",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70094",
+      "resident": "RS-4010",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70736",
+      "resident": "RS-4095",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70125",
+      "resident": "RS-4056",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70024",
+      "resident": "RS-4349",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70230",
+      "resident": "RS-4430",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70041",
+      "resident": "RS-4185",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70343",
+      "resident": "RS-4421",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70898",
+      "resident": "RS-4129",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70903",
+      "resident": "RS-4463",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70662",
+      "resident": "RS-4254",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70743",
+      "resident": "RS-4556",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70752",
+      "resident": "RS-4362",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70332",
+      "resident": "RS-4245",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70692",
+      "resident": "RS-4608",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70382",
+      "resident": "RS-4362",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70747",
+      "resident": "RS-4143",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70811",
+      "resident": "RS-4249",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70669",
+      "resident": "RS-4611",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70766",
+      "resident": "RS-4176",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70292",
+      "resident": "RS-4191",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70527",
+      "resident": "RS-4133",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70282",
+      "resident": "RS-4131",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70663",
+      "resident": "RS-4047",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70193",
+      "resident": "RS-4316",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70312",
+      "resident": "RS-4100",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70446",
+      "resident": "RS-4419",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70469",
+      "resident": "RS-4424",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70494",
+      "resident": "RS-4300",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70712",
+      "resident": "RS-4592",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70289",
+      "resident": "RS-4459",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70048",
+      "resident": "RS-4603",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70346",
+      "resident": "RS-4116",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70396",
+      "resident": "RS-4027",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70319",
+      "resident": "RS-4035",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70373",
+      "resident": "RS-4210",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70518",
+      "resident": "RS-4437",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70067",
+      "resident": "RS-4464",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70306",
+      "resident": "RS-4514",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70257",
+      "resident": "RS-4149",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70434",
+      "resident": "RS-4069",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70536",
+      "resident": "RS-4616",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70435",
+      "resident": "RS-4517",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70042",
+      "resident": "RS-4251",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70821",
+      "resident": "RS-4367",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70612",
+      "resident": "RS-4428",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70618",
+      "resident": "RS-4310",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70252",
+      "resident": "RS-4518",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70774",
+      "resident": "RS-4493",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70569",
+      "resident": "RS-4140",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70242",
+      "resident": "RS-4523",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70905",
+      "resident": "RS-4022",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70589",
+      "resident": "RS-4343",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70601",
+      "resident": "RS-4496",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70713",
+      "resident": "RS-4088",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70915",
+      "resident": "RS-4034",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70932",
+      "resident": "RS-4018",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70652",
+      "resident": "RS-4442",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70733",
+      "resident": "RS-4524",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70673",
+      "resident": "RS-4441",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70689",
+      "resident": "RS-4153",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70824",
+      "resident": "RS-4453",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70930",
+      "resident": "RS-4466",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70264",
+      "resident": "RS-4065",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70265",
+      "resident": "RS-4101",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70757",
+      "resident": "RS-4285",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70457",
+      "resident": "RS-4158",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70226",
+      "resident": "RS-4605",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70358",
+      "resident": "RS-4236",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70661",
+      "resident": "RS-4069",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70758",
+      "resident": "RS-4614",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70372",
+      "resident": "RS-4369",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70844",
+      "resident": "RS-4440",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70297",
+      "resident": "RS-4468",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70670",
+      "resident": "RS-4176",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70624",
+      "resident": "RS-4044",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70653",
+      "resident": "RS-4294",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70678",
+      "resident": "RS-4171",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70114",
+      "resident": "RS-4240",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70364",
+      "resident": "RS-4386",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70043",
+      "resident": "RS-4560",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70871",
+      "resident": "RS-4603",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70647",
+      "resident": "RS-4191",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70789",
+      "resident": "RS-4500",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70056",
+      "resident": "RS-4472",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70819",
+      "resident": "RS-4465",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70355",
+      "resident": "RS-4480",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70109",
+      "resident": "RS-4550",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70892",
+      "resident": "RS-4174",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70879",
+      "resident": "RS-4176",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70141",
+      "resident": "RS-4595",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70516",
+      "resident": "RS-4619",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70595",
+      "resident": "RS-4541",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70315",
+      "resident": "RS-4530",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70800",
+      "resident": "RS-4407",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70515",
+      "resident": "RS-4554",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70695",
+      "resident": "RS-4374",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70820",
+      "resident": "RS-4538",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70135",
+      "resident": "RS-4350",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70148",
+      "resident": "RS-4150",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70587",
+      "resident": "RS-4068",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70885",
+      "resident": "RS-4182",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70730",
+      "resident": "RS-4592",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70894",
+      "resident": "RS-4314",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70796",
+      "resident": "RS-4352",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70173",
+      "resident": "RS-4393",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70013",
+      "resident": "RS-4091",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70817",
+      "resident": "RS-4504",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70890",
+      "resident": "RS-4508",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70030",
+      "resident": "RS-4366",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70344",
+      "resident": "RS-4224",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70671",
+      "resident": "RS-4289",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70565",
+      "resident": "RS-4124",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70878",
+      "resident": "RS-4227",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70079",
+      "resident": "RS-4330",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70384",
+      "resident": "RS-4393",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70523",
+      "resident": "RS-4352",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70544",
+      "resident": "RS-4339",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70651",
+      "resident": "RS-4619",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70937",
+      "resident": "RS-4192",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70073",
+      "resident": "RS-4264",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70559",
+      "resident": "RS-4531",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70564",
+      "resident": "RS-4502",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70369",
+      "resident": "RS-4076",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70080",
+      "resident": "RS-4223",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70867",
+      "resident": "RS-4440",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70884",
+      "resident": "RS-4003",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70271",
+      "resident": "RS-4608",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70357",
+      "resident": "RS-4533",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70551",
+      "resident": "RS-4167",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70775",
+      "resident": "RS-4076",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70203",
+      "resident": "RS-4374",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70280",
+      "resident": "RS-4320",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70643",
+      "resident": "RS-4264",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70920",
+      "resident": "RS-4069",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70328",
+      "resident": "RS-4078",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70475",
+      "resident": "RS-4282",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70676",
+      "resident": "RS-4107",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70748",
+      "resident": "RS-4328",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70866",
+      "resident": "RS-4348",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70116",
+      "resident": "RS-4242",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70152",
+      "resident": "RS-4526",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70454",
+      "resident": "RS-4371",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70928",
+      "resident": "RS-4137",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70170",
+      "resident": "RS-4107",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70581",
+      "resident": "RS-4141",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70862",
+      "resident": "RS-4217",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70259",
+      "resident": "RS-4019",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70739",
+      "resident": "RS-4341",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70115",
+      "resident": "RS-4322",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70404",
+      "resident": "RS-4357",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70465",
+      "resident": "RS-4295",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70162",
+      "resident": "RS-4289",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70247",
+      "resident": "RS-4157",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70801",
+      "resident": "RS-4152",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70491",
+      "resident": "RS-4480",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70602",
+      "resident": "RS-4365",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70578",
+      "resident": "RS-4537",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70836",
+      "resident": "RS-4471",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70852",
+      "resident": "RS-4569",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70099",
+      "resident": "RS-4218",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70714",
+      "resident": "RS-4203",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70222",
+      "resident": "RS-4301",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70225",
+      "resident": "RS-4244",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70326",
+      "resident": "RS-4101",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70506",
+      "resident": "RS-4037",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70614",
+      "resident": "RS-4213",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70493",
+      "resident": "RS-4064",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70540",
+      "resident": "RS-4065",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70843",
+      "resident": "RS-4159",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70833",
+      "resident": "RS-4486",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70000",
+      "resident": "RS-4209",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70035",
+      "resident": "RS-4245",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70925",
+      "resident": "RS-4411",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70015",
+      "resident": "RS-4454",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70057",
+      "resident": "RS-4243",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70287",
+      "resident": "RS-4070",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70659",
+      "resident": "RS-4198",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70157",
+      "resident": "RS-4285",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70300",
+      "resident": "RS-4088",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70690",
+      "resident": "RS-4516",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70274",
+      "resident": "RS-4086",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70408",
+      "resident": "RS-4059",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70764",
+      "resident": "RS-4305",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70904",
+      "resident": "RS-4501",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70204",
+      "resident": "RS-4030",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70557",
+      "resident": "RS-4411",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70020",
+      "resident": "RS-4068",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70168",
+      "resident": "RS-4457",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70179",
+      "resident": "RS-4608",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70290",
+      "resident": "RS-4008",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70452",
+      "resident": "RS-4040",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70486",
+      "resident": "RS-4040",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70680",
+      "resident": "RS-4118",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70806",
+      "resident": "RS-4007",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70619",
+      "resident": "RS-4429",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70711",
+      "resident": "RS-4169",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70251",
+      "resident": "RS-4412",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70604",
+      "resident": "RS-4303",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70936",
+      "resident": "RS-4443",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70685",
+      "resident": "RS-4416",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70834",
+      "resident": "RS-4139",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70285",
+      "resident": "RS-4141",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70797",
+      "resident": "RS-4345",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70907",
+      "resident": "RS-4059",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70066",
+      "resident": "RS-4126",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70776",
+      "resident": "RS-4584",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70860",
+      "resident": "RS-4229",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70492",
+      "resident": "RS-4488",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70762",
+      "resident": "RS-4313",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70590",
+      "resident": "RS-4400",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70674",
+      "resident": "RS-4532",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70303",
+      "resident": "RS-4129",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70405",
+      "resident": "RS-4325",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70740",
+      "resident": "RS-4295",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70197",
+      "resident": "RS-4448",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70501",
+      "resident": "RS-4309",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70509",
+      "resident": "RS-4245",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70889",
+      "resident": "RS-4124",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70807",
+      "resident": "RS-4519",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70412",
+      "resident": "RS-4056",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70489",
+      "resident": "RS-4460",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70608",
+      "resident": "RS-4035",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70666",
+      "resident": "RS-4323",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70770",
+      "resident": "RS-4559",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70406",
+      "resident": "RS-4354",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70683",
+      "resident": "RS-4343",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70064",
+      "resident": "RS-4196",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70433",
+      "resident": "RS-4233",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70348",
+      "resident": "RS-4521",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70425",
+      "resident": "RS-4242",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70276",
+      "resident": "RS-4570",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70468",
+      "resident": "RS-4559",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70593",
+      "resident": "RS-4198",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70693",
+      "resident": "RS-4300",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70517",
+      "resident": "RS-4315",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70268",
+      "resident": "RS-4409",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70534",
+      "resident": "RS-4003",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70629",
+      "resident": "RS-4004",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70416",
+      "resident": "RS-4335",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70580",
+      "resident": "RS-4128",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70176",
+      "resident": "RS-4024",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70606",
+      "resident": "RS-4548",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70002",
+      "resident": "RS-4507",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70090",
+      "resident": "RS-4227",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70575",
+      "resident": "RS-4187",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70278",
+      "resident": "RS-4569",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70887",
+      "resident": "RS-4224",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70212",
+      "resident": "RS-4098",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70450",
+      "resident": "RS-4227",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70533",
+      "resident": "RS-4535",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70279",
+      "resident": "RS-4487",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70262",
+      "resident": "RS-4510",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70497",
+      "resident": "RS-4377",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70767",
+      "resident": "RS-4287",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70367",
+      "resident": "RS-4077",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70815",
+      "resident": "RS-4004",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70350",
+      "resident": "RS-4217",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70460",
+      "resident": "RS-4394",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70301",
+      "resident": "RS-4410",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70075",
+      "resident": "RS-4086",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70124",
+      "resident": "RS-4450",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70184",
+      "resident": "RS-4051",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70106",
+      "resident": "RS-4099",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70705",
+      "resident": "RS-4466",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70703",
+      "resident": "RS-4151",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70097",
+      "resident": "RS-4513",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70113",
+      "resident": "RS-4043",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70611",
+      "resident": "RS-4618",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70900",
+      "resident": "RS-4323",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70103",
+      "resident": "RS-4396",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70200",
+      "resident": "RS-4472",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70380",
+      "resident": "RS-4206",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70877",
+      "resident": "RS-4082",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70137",
+      "resident": "RS-4159",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70556",
+      "resident": "RS-4312",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70701",
+      "resident": "RS-4186",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70864",
+      "resident": "RS-4405",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70068",
+      "resident": "RS-4449",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70101",
+      "resident": "RS-4201",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70151",
+      "resident": "RS-4435",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70508",
+      "resident": "RS-4519",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70858",
+      "resident": "RS-4119",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70221",
+      "resident": "RS-4069",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70277",
+      "resident": "RS-4101",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70719",
+      "resident": "RS-4229",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70182",
+      "resident": "RS-4358",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70250",
+      "resident": "RS-4032",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70334",
+      "resident": "RS-4574",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70571",
+      "resident": "RS-4354",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70697",
+      "resident": "RS-4195",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70458",
+      "resident": "RS-4188",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70487",
+      "resident": "RS-4252",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70868",
+      "resident": "RS-4469",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70522",
+      "resident": "RS-4056",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70708",
+      "resident": "RS-4360",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70427",
+      "resident": "RS-4037",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70089",
+      "resident": "RS-4465",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70411",
+      "resident": "RS-4313",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70777",
+      "resident": "RS-4571",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70400",
+      "resident": "RS-4025",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70507",
+      "resident": "RS-4617",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70029",
+      "resident": "RS-4439",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70391",
+      "resident": "RS-4386",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70283",
+      "resident": "RS-4190",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70324",
+      "resident": "RS-4305",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70337",
+      "resident": "RS-4308",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70914",
+      "resident": "RS-4422",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70063",
+      "resident": "RS-4486",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70567",
+      "resident": "RS-4581",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70732",
+      "resident": "RS-4269",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70912",
+      "resident": "RS-4165",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70738",
+      "resident": "RS-4474",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70803",
+      "resident": "RS-4511",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70660",
+      "resident": "RS-4245",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70828",
+      "resident": "RS-4308",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70019",
+      "resident": "RS-4114",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70266",
+      "resident": "RS-4016",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70472",
+      "resident": "RS-4591",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70134",
+      "resident": "RS-4163",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70150",
+      "resident": "RS-4471",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70779",
+      "resident": "RS-4026",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70562",
+      "resident": "RS-4530",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70656",
+      "resident": "RS-4053",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70091",
+      "resident": "RS-4171",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70309",
+      "resident": "RS-4073",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70895",
+      "resident": "RS-4436",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70933",
+      "resident": "RS-4581",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70243",
+      "resident": "RS-4232",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70453",
+      "resident": "RS-4445",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70586",
+      "resident": "RS-4537",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70016",
+      "resident": "RS-4484",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70394",
+      "resident": "RS-4253",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70749",
+      "resident": "RS-4336",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70143",
+      "resident": "RS-4094",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70329",
+      "resident": "RS-4026",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70352",
+      "resident": "RS-4213",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70260",
+      "resident": "RS-4590",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70682",
+      "resident": "RS-4339",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70413",
+      "resident": "RS-4050",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70110",
+      "resident": "RS-4222",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70296",
+      "resident": "RS-4398",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70804",
+      "resident": "RS-4183",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70155",
+      "resident": "RS-4012",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70476",
+      "resident": "RS-4043",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70875",
+      "resident": "RS-4532",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70040",
+      "resident": "RS-4393",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70050",
+      "resident": "RS-4451",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70524",
+      "resident": "RS-4324",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70199",
+      "resident": "RS-4232",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70275",
+      "resident": "RS-4094",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70456",
+      "resident": "RS-4316",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70600",
+      "resident": "RS-4398",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70938",
+      "resident": "RS-4188",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70314",
+      "resident": "RS-4281",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70512",
+      "resident": "RS-4445",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70206",
+      "resident": "RS-4090",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70838",
+      "resident": "RS-4046",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70037",
+      "resident": "RS-4054",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70291",
+      "resident": "RS-4247",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70439",
+      "resident": "RS-4608",
+      "status": "withheld-regulation",
+      "recentCount": 13
+    },
+    {
+      "appointment": "AP-70918",
+      "resident": "RS-4565",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70459",
+      "resident": "RS-4420",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70704",
+      "resident": "RS-4019",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70078",
+      "resident": "RS-4570",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70195",
+      "resident": "RS-4384",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70392",
+      "resident": "RS-4148",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70826",
+      "resident": "RS-4443",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70531",
+      "resident": "RS-4065",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70542",
+      "resident": "RS-4555",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70837",
+      "resident": "RS-4448",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70208",
+      "resident": "RS-4339",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70585",
+      "resident": "RS-4591",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70893",
+      "resident": "RS-4221",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70237",
+      "resident": "RS-4039",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70519",
+      "resident": "RS-4551",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70008",
+      "resident": "RS-4351",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70062",
+      "resident": "RS-4015",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70339",
+      "resident": "RS-4111",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70429",
+      "resident": "RS-4109",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70546",
+      "resident": "RS-4260",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70061",
+      "resident": "RS-4604",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70365",
+      "resident": "RS-4225",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70537",
+      "resident": "RS-4502",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70623",
+      "resident": "RS-4457",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70814",
+      "resident": "RS-4487",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70483",
+      "resident": "RS-4589",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70636",
+      "resident": "RS-4609",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70934",
+      "resident": "RS-4242",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70461",
+      "resident": "RS-4292",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70126",
+      "resident": "RS-4160",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70142",
+      "resident": "RS-4020",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70437",
+      "resident": "RS-4506",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70552",
+      "resident": "RS-4163",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70902",
+      "resident": "RS-4287",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70034",
+      "resident": "RS-4167",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70118",
+      "resident": "RS-4079",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70548",
+      "resident": "RS-4446",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70722",
+      "resident": "RS-4054",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70490",
+      "resident": "RS-4614",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70502",
+      "resident": "RS-4530",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70513",
+      "resident": "RS-4307",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70910",
+      "resident": "RS-4325",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70086",
+      "resident": "RS-4519",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70161",
+      "resident": "RS-4100",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70164",
+      "resident": "RS-4329",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70169",
+      "resident": "RS-4265",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70870",
+      "resident": "RS-4244",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70156",
+      "resident": "RS-4234",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70023",
+      "resident": "RS-4138",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70473",
+      "resident": "RS-4400",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70327",
+      "resident": "RS-4429",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70583",
+      "resident": "RS-4215",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70734",
+      "resident": "RS-4298",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70847",
+      "resident": "RS-4139",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70320",
+      "resident": "RS-4013",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70723",
+      "resident": "RS-4287",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70430",
+      "resident": "RS-4406",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70845",
+      "resident": "RS-4573",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70744",
+      "resident": "RS-4252",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70857",
+      "resident": "RS-4526",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70244",
+      "resident": "RS-4048",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70500",
+      "resident": "RS-4089",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70809",
+      "resident": "RS-4534",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70927",
+      "resident": "RS-4401",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70111",
+      "resident": "RS-4046",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70813",
+      "resident": "RS-4099",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70185",
+      "resident": "RS-4415",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70189",
+      "resident": "RS-4457",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70354",
+      "resident": "RS-4405",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70686",
+      "resident": "RS-4161",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70699",
+      "resident": "RS-4156",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70359",
+      "resident": "RS-4118",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70378",
+      "resident": "RS-4470",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70641",
+      "resident": "RS-4215",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70765",
+      "resident": "RS-4339",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70831",
+      "resident": "RS-4142",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70582",
+      "resident": "RS-4421",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70772",
+      "resident": "RS-4612",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70009",
+      "resident": "RS-4193",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70121",
+      "resident": "RS-4029",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70466",
+      "resident": "RS-4618",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70132",
+      "resident": "RS-4534",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70207",
+      "resident": "RS-4612",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70217",
+      "resident": "RS-4258",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70227",
+      "resident": "RS-4132",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70632",
+      "resident": "RS-4492",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70213",
+      "resident": "RS-4371",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70249",
+      "resident": "RS-4571",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70715",
+      "resident": "RS-4068",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70209",
+      "resident": "RS-4456",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70455",
+      "resident": "RS-4249",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70025",
+      "resident": "RS-4509",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70424",
+      "resident": "RS-4534",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70488",
+      "resident": "RS-4172",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70178",
+      "resident": "RS-4552",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70361",
+      "resident": "RS-4581",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70145",
+      "resident": "RS-4154",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70235",
+      "resident": "RS-4492",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70421",
+      "resident": "RS-4616",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70750",
+      "resident": "RS-4439",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70205",
+      "resident": "RS-4117",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70622",
+      "resident": "RS-4063",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70865",
+      "resident": "RS-4398",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70239",
+      "resident": "RS-4073",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70525",
+      "resident": "RS-4146",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70541",
+      "resident": "RS-4197",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70716",
+      "resident": "RS-4020",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70202",
+      "resident": "RS-4617",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70410",
+      "resident": "RS-4176",
+      "status": "withheld-regulation",
+      "recentCount": 13
+    },
+    {
+      "appointment": "AP-70621",
+      "resident": "RS-4010",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70011",
+      "resident": "RS-4371",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70036",
+      "resident": "RS-4508",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70773",
+      "resident": "RS-4615",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70886",
+      "resident": "RS-4077",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70229",
+      "resident": "RS-4467",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70039",
+      "resident": "RS-4095",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70196",
+      "resident": "RS-4573",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70371",
+      "resident": "RS-4180",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70769",
+      "resident": "RS-4046",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70823",
+      "resident": "RS-4385",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70038",
+      "resident": "RS-4214",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70215",
+      "resident": "RS-4235",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70426",
+      "resident": "RS-4453",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70897",
+      "resident": "RS-4051",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70588",
+      "resident": "RS-4537",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70258",
+      "resident": "RS-4545",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70637",
+      "resident": "RS-4332",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70027",
+      "resident": "RS-4248",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70248",
+      "resident": "RS-4006",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70318",
+      "resident": "RS-4556",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70443",
+      "resident": "RS-4469",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70617",
+      "resident": "RS-4558",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70160",
+      "resident": "RS-4396",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70254",
+      "resident": "RS-4286",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70307",
+      "resident": "RS-4307",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70428",
+      "resident": "RS-4399",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70543",
+      "resident": "RS-4545",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70463",
+      "resident": "RS-4461",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70709",
+      "resident": "RS-4212",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70921",
+      "resident": "RS-4485",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70313",
+      "resident": "RS-4217",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70768",
+      "resident": "RS-4292",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70883",
+      "resident": "RS-4414",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70482",
+      "resident": "RS-4419",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70603",
+      "resident": "RS-4553",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70790",
+      "resident": "RS-4493",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70830",
+      "resident": "RS-4485",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70386",
+      "resident": "RS-4379",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70780",
+      "resident": "RS-4553",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70499",
+      "resident": "RS-4270",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70818",
+      "resident": "RS-4229",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70812",
+      "resident": "RS-4410",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70863",
+      "resident": "RS-4217",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70785",
+      "resident": "RS-4607",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70926",
+      "resident": "RS-4263",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70414",
+      "resident": "RS-4244",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70442",
+      "resident": "RS-4615",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70174",
+      "resident": "RS-4073",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70667",
+      "resident": "RS-4322",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70269",
+      "resident": "RS-4170",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70731",
+      "resident": "RS-4397",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70149",
+      "resident": "RS-4324",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70644",
+      "resident": "RS-4275",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70792",
+      "resident": "RS-4046",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70383",
+      "resident": "RS-4390",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70014",
+      "resident": "RS-4607",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70330",
+      "resident": "RS-4326",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70232",
+      "resident": "RS-4179",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70535",
+      "resident": "RS-4561",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70861",
+      "resident": "RS-4100",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70353",
+      "resident": "RS-4451",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70480",
+      "resident": "RS-4302",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70046",
+      "resident": "RS-4431",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70084",
+      "resident": "RS-4299",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70305",
+      "resident": "RS-4169",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70538",
+      "resident": "RS-4483",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70335",
+      "resident": "RS-4203",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70418",
+      "resident": "RS-4129",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70751",
+      "resident": "RS-4431",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70004",
+      "resident": "RS-4010",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70058",
+      "resident": "RS-4363",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70874",
+      "resident": "RS-4099",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70880",
+      "resident": "RS-4275",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70175",
+      "resident": "RS-4049",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70007",
+      "resident": "RS-4260",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70474",
+      "resident": "RS-4367",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70929",
+      "resident": "RS-4277",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70419",
+      "resident": "RS-4040",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70594",
+      "resident": "RS-4334",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70059",
+      "resident": "RS-4334",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70700",
+      "resident": "RS-4184",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70727",
+      "resident": "RS-4421",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70882",
+      "resident": "RS-4619",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70077",
+      "resident": "RS-4049",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70760",
+      "resident": "RS-4022",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70707",
+      "resident": "RS-4382",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70615",
+      "resident": "RS-4247",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70728",
+      "resident": "RS-4215",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70288",
+      "resident": "RS-4315",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70563",
+      "resident": "RS-4057",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70825",
+      "resident": "RS-4532",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70133",
+      "resident": "RS-4585",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70436",
+      "resident": "RS-4060",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70616",
+      "resident": "RS-4252",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70681",
+      "resident": "RS-4305",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70387",
+      "resident": "RS-4303",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70579",
+      "resident": "RS-4252",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70649",
+      "resident": "RS-4014",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70613",
+      "resident": "RS-4584",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70093",
+      "resident": "RS-4081",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70165",
+      "resident": "RS-4137",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70218",
+      "resident": "RS-4606",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70628",
+      "resident": "RS-4512",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70706",
+      "resident": "RS-4321",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70438",
+      "resident": "RS-4473",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70510",
+      "resident": "RS-4506",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70417",
+      "resident": "RS-4191",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70112",
+      "resident": "RS-4398",
+      "status": "withheld-regulation",
+      "recentCount": 13
+    },
+    {
+      "appointment": "AP-70001",
+      "resident": "RS-4199",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70049",
+      "resident": "RS-4088",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70377",
+      "resident": "RS-4070",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70561",
+      "resident": "RS-4221",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70677",
+      "resident": "RS-4465",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70028",
+      "resident": "RS-4437",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70310",
+      "resident": "RS-4421",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70545",
+      "resident": "RS-4055",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70597",
+      "resident": "RS-4596",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70609",
+      "resident": "RS-4058",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70610",
+      "resident": "RS-4146",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70881",
+      "resident": "RS-4083",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70321",
+      "resident": "RS-4058",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70341",
+      "resident": "RS-4246",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70363",
+      "resident": "RS-4177",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70802",
+      "resident": "RS-4398",
+      "status": "withheld-regulation",
+      "recentCount": 14
+    },
+    {
+      "appointment": "AP-70108",
+      "resident": "RS-4422",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70530",
+      "resident": "RS-4163",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70908",
+      "resident": "RS-4574",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70888",
+      "resident": "RS-4613",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70245",
+      "resident": "RS-4055",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70432",
+      "resident": "RS-4487",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70462",
+      "resident": "RS-4254",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70529",
+      "resident": "RS-4527",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70281",
+      "resident": "RS-4296",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70655",
+      "resident": "RS-4596",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70726",
+      "resident": "RS-4072",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70130",
+      "resident": "RS-4040",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70445",
+      "resident": "RS-4292",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70657",
+      "resident": "RS-4594",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70737",
+      "resident": "RS-4318",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70753",
+      "resident": "RS-4059",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70136",
+      "resident": "RS-4542",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70495",
+      "resident": "RS-4073",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70832",
+      "resident": "RS-4419",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70856",
+      "resident": "RS-4280",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70407",
+      "resident": "RS-4504",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70554",
+      "resident": "RS-4584",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70853",
+      "resident": "RS-4356",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70018",
+      "resident": "RS-4013",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70261",
+      "resident": "RS-4254",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70591",
+      "resident": "RS-4586",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70742",
+      "resident": "RS-4422",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70786",
+      "resident": "RS-4136",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70234",
+      "resident": "RS-4334",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70395",
+      "resident": "RS-4412",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70872",
+      "resident": "RS-4378",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70201",
+      "resident": "RS-4517",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70284",
+      "resident": "RS-4079",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70521",
+      "resident": "RS-4287",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70688",
+      "resident": "RS-4071",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70901",
+      "resident": "RS-4085",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70935",
+      "resident": "RS-4200",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70005",
+      "resident": "RS-4009",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70323",
+      "resident": "RS-4505",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70528",
+      "resident": "RS-4098",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70547",
+      "resident": "RS-4571",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70791",
+      "resident": "RS-4084",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70869",
+      "resident": "RS-4278",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70120",
+      "resident": "RS-4281",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70444",
+      "resident": "RS-4105",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70696",
+      "resident": "RS-4249",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70214",
+      "resident": "RS-4596",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70233",
+      "resident": "RS-4616",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70592",
+      "resident": "RS-4152",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70599",
+      "resident": "RS-4383",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70060",
+      "resident": "RS-4097",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70325",
+      "resident": "RS-4191",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70338",
+      "resident": "RS-4359",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70403",
+      "resident": "RS-4122",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70631",
+      "resident": "RS-4307",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70634",
+      "resident": "RS-4542",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70783",
+      "resident": "RS-4153",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70788",
+      "resident": "RS-4347",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70253",
+      "resident": "RS-4386",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70504",
+      "resident": "RS-4311",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70485",
+      "resident": "RS-4146",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70573",
+      "resident": "RS-4158",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70051",
+      "resident": "RS-4277",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70299",
+      "resident": "RS-4143",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70415",
+      "resident": "RS-4578",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70317",
+      "resident": "RS-4186",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70231",
+      "resident": "RS-4089",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70922",
+      "resident": "RS-4241",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70187",
+      "resident": "RS-4067",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70598",
+      "resident": "RS-4232",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70047",
+      "resident": "RS-4153",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70745",
+      "resident": "RS-4194",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70376",
+      "resident": "RS-4367",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70236",
+      "resident": "RS-4178",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70272",
+      "resident": "RS-4004",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70755",
+      "resident": "RS-4149",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70092",
+      "resident": "RS-4266",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70128",
+      "resident": "RS-4610",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70159",
+      "resident": "RS-4601",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70180",
+      "resident": "RS-4526",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70342",
+      "resident": "RS-4330",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70566",
+      "resident": "RS-4154",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70645",
+      "resident": "RS-4353",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70725",
+      "resident": "RS-4617",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70401",
+      "resident": "RS-4364",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70691",
+      "resident": "RS-4394",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70105",
+      "resident": "RS-4463",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70481",
+      "resident": "RS-4363",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70302",
+      "resident": "RS-4079",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70422",
+      "resident": "RS-4338",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70694",
+      "resident": "RS-4445",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70399",
+      "resident": "RS-4313",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70131",
+      "resident": "RS-4161",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70625",
+      "resident": "RS-4535",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70721",
+      "resident": "RS-4214",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70829",
+      "resident": "RS-4093",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70850",
+      "resident": "RS-4085",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70855",
+      "resident": "RS-4478",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70553",
+      "resident": "RS-4447",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70626",
+      "resident": "RS-4021",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70440",
+      "resident": "RS-4501",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70650",
+      "resident": "RS-4565",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70012",
+      "resident": "RS-4314",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70188",
+      "resident": "RS-4561",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70192",
+      "resident": "RS-4315",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70117",
+      "resident": "RS-4455",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70496",
+      "resident": "RS-4105",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70511",
+      "resident": "RS-4007",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70854",
+      "resident": "RS-4429",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70191",
+      "resident": "RS-4225",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70311",
+      "resident": "RS-4160",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70393",
+      "resident": "RS-4285",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70735",
+      "resident": "RS-4590",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70924",
+      "resident": "RS-4133",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70273",
+      "resident": "RS-4352",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70351",
+      "resident": "RS-4065",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70431",
+      "resident": "RS-4556",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70447",
+      "resident": "RS-4257",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70127",
+      "resident": "RS-4178",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70710",
+      "resident": "RS-4536",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70402",
+      "resident": "RS-4380",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70505",
+      "resident": "RS-4517",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70859",
+      "resident": "RS-4498",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70360",
+      "resident": "RS-4247",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70526",
+      "resident": "RS-4516",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70263",
+      "resident": "RS-4204",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70147",
+      "resident": "RS-4116",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70255",
+      "resident": "RS-4453",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70076",
+      "resident": "RS-4227",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70398",
+      "resident": "RS-4402",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70256",
+      "resident": "RS-4351",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70761",
+      "resident": "RS-4513",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70532",
+      "resident": "RS-4363",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70190",
+      "resident": "RS-4608",
+      "status": "withheld-regulation",
+      "recentCount": 14
+    },
+    {
+      "appointment": "AP-70374",
+      "resident": "RS-4357",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70555",
+      "resident": "RS-4350",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70808",
+      "resident": "RS-4531",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70911",
+      "resident": "RS-4230",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70756",
+      "resident": "RS-4554",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70539",
+      "resident": "RS-4298",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70607",
+      "resident": "RS-4154",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70720",
+      "resident": "RS-4541",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70146",
+      "resident": "RS-4544",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70698",
+      "resident": "RS-4148",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70741",
+      "resident": "RS-4524",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70096",
+      "resident": "RS-4199",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70827",
+      "resident": "RS-4248",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70186",
+      "resident": "RS-4147",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70210",
+      "resident": "RS-4606",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70549",
+      "resident": "RS-4124",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70668",
+      "resident": "RS-4610",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70031",
+      "resident": "RS-4071",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70294",
+      "resident": "RS-4562",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70375",
+      "resident": "RS-4050",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70840",
+      "resident": "RS-4476",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70055",
+      "resident": "RS-4543",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70336",
+      "resident": "RS-4396",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70605",
+      "resident": "RS-4088",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70347",
+      "resident": "RS-4588",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70478",
+      "resident": "RS-4372",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70366",
+      "resident": "RS-4014",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70810",
+      "resident": "RS-4528",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70917",
+      "resident": "RS-4529",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70172",
+      "resident": "RS-4156",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70627",
+      "resident": "RS-4606",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70006",
+      "resident": "RS-4076",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70098",
+      "resident": "RS-4096",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70241",
+      "resident": "RS-4348",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70568",
+      "resident": "RS-4285",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70664",
+      "resident": "RS-4415",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70409",
+      "resident": "RS-4605",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70576",
+      "resident": "RS-4437",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70876",
+      "resident": "RS-4489",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70069",
+      "resident": "RS-4561",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70451",
+      "resident": "RS-4256",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70584",
+      "resident": "RS-4313",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70913",
+      "resident": "RS-4033",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70388",
+      "resident": "RS-4564",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70849",
+      "resident": "RS-4559",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70017",
+      "resident": "RS-4019",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70848",
+      "resident": "RS-4162",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70181",
+      "resident": "RS-4331",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70520",
+      "resident": "RS-4066",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70331",
+      "resident": "RS-4518",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70219",
+      "resident": "RS-4575",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70771",
+      "resident": "RS-4385",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70759",
+      "resident": "RS-4351",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70842",
+      "resident": "RS-4115",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70794",
+      "resident": "RS-4486",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70577",
+      "resident": "RS-4351",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70198",
+      "resident": "RS-4028",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70467",
+      "resident": "RS-4602",
+      "status": "withheld-regulation",
+      "recentCount": 3
+    },
+    {
+      "appointment": "AP-70906",
+      "resident": "RS-4018",
+      "status": "withheld-regulation",
+      "recentCount": 7
+    },
+    {
+      "appointment": "AP-70088",
+      "resident": "RS-4127",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70449",
+      "resident": "RS-4344",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70916",
+      "resident": "RS-4236",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70724",
+      "resident": "RS-4009",
+      "status": "withheld-regulation",
+      "recentCount": 10
+    },
+    {
+      "appointment": "AP-70798",
+      "resident": "RS-4422",
+      "status": "withheld-regulation",
+      "recentCount": 12
+    },
+    {
+      "appointment": "AP-70846",
+      "resident": "RS-4079",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70441",
+      "resident": "RS-4240",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70479",
+      "resident": "RS-4365",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70560",
+      "resident": "RS-4389",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70640",
+      "resident": "RS-4021",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70873",
+      "resident": "RS-4304",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70390",
+      "resident": "RS-4613",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70782",
+      "resident": "RS-4512",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70896",
+      "resident": "RS-4009",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70919",
+      "resident": "RS-4489",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70558",
+      "resident": "RS-4215",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70654",
+      "resident": "RS-4377",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70032",
+      "resident": "RS-4522",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70003",
+      "resident": "RS-4087",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70087",
+      "resident": "RS-4214",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70220",
+      "resident": "RS-4373",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70646",
+      "resident": "RS-4588",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70729",
+      "resident": "RS-4495",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70891",
+      "resident": "RS-4054",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70021",
+      "resident": "RS-4323",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70345",
+      "resident": "RS-4181",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70053",
+      "resident": "RS-4108",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70072",
+      "resident": "RS-4176",
+      "status": "withheld-regulation",
+      "recentCount": 14
+    },
+    {
+      "appointment": "AP-70082",
+      "resident": "RS-4114",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70194",
+      "resident": "RS-4395",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70642",
+      "resident": "RS-4590",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70362",
+      "resident": "RS-4268",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70648",
+      "resident": "RS-4523",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70129",
+      "resident": "RS-4205",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70839",
+      "resident": "RS-4488",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70851",
+      "resident": "RS-4380",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70104",
+      "resident": "RS-4191",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70228",
+      "resident": "RS-4546",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70379",
+      "resident": "RS-4407",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70633",
+      "resident": "RS-4147",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70675",
+      "resident": "RS-4057",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70022",
+      "resident": "RS-4341",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70672",
+      "resident": "RS-4533",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70687",
+      "resident": "RS-4369",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70045",
+      "resident": "RS-4307",
+      "status": "withheld-regulation",
+      "recentCount": 13
+    },
+    {
+      "appointment": "AP-70223",
+      "resident": "RS-4601",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70620",
+      "resident": "RS-4450",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70270",
+      "resident": "RS-4178",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70240",
+      "resident": "RS-4413",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70778",
+      "resident": "RS-4018",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70177",
+      "resident": "RS-4160",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70805",
+      "resident": "RS-4600",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70931",
+      "resident": "RS-4572",
+      "status": "withheld-regulation",
+      "recentCount": 4
+    },
+    {
+      "appointment": "AP-70081",
+      "resident": "RS-4572",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70333",
+      "resident": "RS-4007",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70370",
+      "resident": "RS-4596",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70246",
+      "resident": "RS-4395",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70448",
+      "resident": "RS-4600",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70154",
+      "resident": "RS-4543",
+      "status": "unreached",
+      "tried": []
+    },
+    {
+      "appointment": "AP-70420",
+      "resident": "RS-4002",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70841",
+      "resident": "RS-4314",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70044",
+      "resident": "RS-4059",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70119",
+      "resident": "RS-4495",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70140",
+      "resident": "RS-4117",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70166",
+      "resident": "RS-4431",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70658",
+      "resident": "RS-4090",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70122",
+      "resident": "RS-4278",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70423",
+      "resident": "RS-4519",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70349",
+      "resident": "RS-4239",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70781",
+      "resident": "RS-4478",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70070",
+      "resident": "RS-4058",
+      "status": "withheld-regulation",
+      "recentCount": 9
+    },
+    {
+      "appointment": "AP-70795",
+      "resident": "RS-4546",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70397",
+      "resident": "RS-4400",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70071",
+      "resident": "RS-4144",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70304",
+      "resident": "RS-4475",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70822",
+      "resident": "RS-4144",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70356",
+      "resident": "RS-4307",
+      "status": "withheld-regulation",
+      "recentCount": 14
+    },
+    {
+      "appointment": "AP-70368",
+      "resident": "RS-4497",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70639",
+      "resident": "RS-4373",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70665",
+      "resident": "RS-4335",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70787",
+      "resident": "RS-4053",
+      "status": "withheld-regulation",
+      "recentCount": 6
+    },
+    {
+      "appointment": "AP-70074",
+      "resident": "RS-4218",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70550",
+      "resident": "RS-4194",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70293",
+      "resident": "RS-4269",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70298",
+      "resident": "RS-4525",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70308",
+      "resident": "RS-4418",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70939",
+      "resident": "RS-4139",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70216",
+      "resident": "RS-4187",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70909",
+      "resident": "RS-4537",
+      "status": "withheld-regulation",
+      "recentCount": 11
+    },
+    {
+      "appointment": "AP-70158",
+      "resident": "RS-4012",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70570",
+      "resident": "RS-4270",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70923",
+      "resident": "RS-4363",
+      "status": "opted out"
+    },
+    {
+      "appointment": "AP-70107",
+      "resident": "RS-4115",
+      "status": "withheld-regulation",
+      "recentCount": 5
+    },
+    {
+      "appointment": "AP-70793",
+      "resident": "RS-4337",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    },
+    {
+      "appointment": "AP-70083",
+      "resident": "RS-4169",
+      "status": "withheld-regulation",
+      "recentCount": 8
+    },
+    {
+      "appointment": "AP-70167",
+      "resident": "RS-4376",
+      "status": "withheld-regulation",
+      "recentCount": 2
+    }
+  ]
+}

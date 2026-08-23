@@ -1,0 +1,30 @@
+{
+  "name": "bs-reminder-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prisma:generate": "prisma generate",
+    "prisma:push": "prisma db push",
+    "seed:csv": "node scripts/seed-from-csv.js",
+    "seed:prisma": "node scripts/seed-prisma.js",
+    "run:reminders": "node run-reminders.js",
+    "audit:resident": "node scripts/audit-resident.js",
+    "full:run": "npm run prisma:generate && npm run prisma:push && npm run seed:prisma && npm run run:reminders"
+  },
+  "dependencies": {
+    "next": "13.4.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@prisma/client": "5.11.0",
+    "pg": "8.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.21",
+    "typescript": "5.2.2",
+    "prisma": "5.11.0"
+  }
+}
